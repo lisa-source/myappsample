@@ -17,6 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
+<<<<<<< HEAD
 project = 'Sphinx_Docs'
 copyright = '2020, Lisa Fleischmann'
 author = 'Lisa Fleischmann'
@@ -27,6 +28,17 @@ author = 'Lisa Fleischmann'
 # If your documentation needs a minimal Sphinx version, state it here.
 #
 # needs_sphinx = '1.0'
+=======
+project = 'My Project'
+copyright = '2020, Lisa Fleischmann'
+author = 'Lisa Fleischmann'
+
+# The full version, including alpha/beta/rc tags
+release = '1.0'
+
+
+# -- General configuration ---------------------------------------------------
+>>>>>>> ee77f4dcfe40cbb9b58892edddc05aa296ffc3f1
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -37,6 +49,7 @@ extensions = [
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+<<<<<<< HEAD
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
@@ -60,6 +73,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+=======
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+# This pattern also affects html_static_path and html_extra_path.
+exclude_patterns = []
+>>>>>>> ee77f4dcfe40cbb9b58892edddc05aa296ffc3f1
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -69,8 +88,11 @@ pygments_style = 'sphinx'
 #
 html_theme = 'alabaster'
 
+<<<<<<< HEAD
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+=======
+>>>>>>> ee77f4dcfe40cbb9b58892edddc05aa296ffc3f1
