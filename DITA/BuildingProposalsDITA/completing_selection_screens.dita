@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="completing_selection_screens">
+    <title>Completing Selection Screens</title>
+    <shortdesc>To create a project in Acme Eye, you need to complete Selection Screens. You can tailor your project to your client's specific needs.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To complete the Executive Summary selection screen, follow these steps:</p>
+        </context>
+        <steps>
+            <step><cmd>From the Document Outline, select <uicontrol>Executive Summary.</uicontrol></cmd>
+                <stepresult>The Executive Summary screen is displayed.</stepresult></step>
+            <step><cmd>Select <uicontrol>Selections for Executive Summary</uicontrol></cmd>
+                <stepresult>The Selections for Executive Summary screen is displayed.</stepresult></step>
+            <step><cmd>Select the checkboxes for <uicontrol>Lines of Business, Products, Customer Business Issues,</uicontrol> and <uicontrol>Differentiators</uicontrol> that apply to your customer. The figure below shows a completed Executive Summary selections screen.</cmd>
+                <info>
+                    <fig expanse="column">
+                        <title>Figure: Completed Executive Summary Selections Screen</title>
+                        <image href="images/completed_executive_summary_selections_screen.jpg"
+                            placement="break">
+                            <alt>Used by Screen Readers</alt>
+                        </image>
+                    </fig>
+                </info>
+                </step>
+            <step><cmd>Click <uicontrol>Next.</uicontrol></cmd></step>
+        </steps>
+        <example><note>For the Executive Summary, you can only select a maximum of five customer business issues. More than five customer business issues is too much for the customer to read.</note></example>
+    </taskbody>
+</task>
