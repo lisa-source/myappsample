@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="completing_data_screens">
+    <title>Completing Data Screens</title>
+    <shortdesc>Once you have created your project in Acme Eye, complete data screens, including Acme
+        Prime and Customer.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Acme Eye marks required fields with a red asterisk (*). This means you must fill in the information in the fields marked with a red
+            asterisk (*) or you cannot move to the next screen.</p>
+            <p>To complete the Acme Prime data screen, follow these steps:</p>
+        </context>
+        <steps>
+            <step><cmd>From the Document Outline, select <uicontrol>Acme
+                    Prime</uicontrol>.</cmd>
+                <stepresult>The Acme Prime data screen is displayed.</stepresult>
+            </step>
+            <step><cmd>Enter your Acme Prime information, as follows. The figure below shows an example of a completed Acme Prime data screen.</cmd>
+                <info>
+                <fig expanse="column">
+                    <title>Figure: Completed Acme Prime Data Screen</title>
+                <image href="images/completed_acme_prime_data_screen.jpg" placement="break">
+                            <alt>Used by Screen Readers</alt>
+                        </image>
+                </fig>
+                </info>
+                <info>
+                <ul>
+                <li><uicontrol>First Name:</uicontrol> Your first name.</li>
+                <li><uicontrol>Last Name:</uicontrol> Your last name.</li>
+                <li><uicontrol>Title:</uicontrol> Your job title.</li>
+                <li><uicontrol>Address:</uicontrol> Your address.</li>
+                <li><uicontrol>Phone Number:</uicontrol> Your phone number.</li> 
+                <li><uicontrol>Email Address:</uicontrol> Your email address.</li>
+                </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

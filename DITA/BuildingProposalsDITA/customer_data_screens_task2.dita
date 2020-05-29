@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="customer_data_screens_task2">
+    <title>Completing Customer Data Screens</title>
+    <shortdesc>Once you have created your project in Acme Eye, complete data screens, including Acme
+        Prime and Customer.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To complete the Customer data screen, follow these steps:</p>
+            </context>
+            <steps>
+        <step><cmd>From the Document Outline, select <uicontrol>Customer.</uicontrol></cmd>
+            <stepresult>The Customer data screen is displayed.</stepresult></step>
+        <step><cmd>Enter the Customer information, as follows.</cmd>
+        <info>
+        <ul>
+        <li><uicontrol>First Name:</uicontrol> Customer first name.</li>
+        <li><uicontrol>Last Name</uicontrol> Customer last name.</li>
+        <li><uicontrol>Company:</uicontrol> Customer company.</li>
+        <li><uicontrol>Address:</uicontrol> Customer address.</li>
+        <li><uicontrol>Phone Number:</uicontrol> Customer phone number.</li>
+        <li><uicontrol>Email Address:</uicontrol> Customer email address.</li>
+        </ul>
+        </info>
+        </step>
+        <step><cmd>Click <uicontrol>Next.</uicontrol></cmd>
+        </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="my_second_task">
+    <title>Creating a Project</title>
+    <shortdesc>The first step to creating a document in Acme Eye is to create a new
+        project.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To create a project, follow these steps:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From the Welcome Screen use the <uicontrol>Create New Project</uicontrol>
+                    option, as shown in the figure below.</cmd>
+                <info>
+                    <fig>
+                        <title>Figure: Create New Project</title>
+                        <image href="images/create_new_project.jpg" placement="break">
+                            <alt>Used by Screen Readers</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Under Create New Project, enter the project information, as
+                    follows.</cmd>
+            </step>
+            <substeps>
+               <substep><cmd><uicontrol>Name:</uicontrol> Name of the project.</cmd></substep>
+               <substep><cmd><uicontrol>Type:</uicontrol> Select the type of document you wish to create.</cmd></substep>
+               <substep><cmd><uicontrol>Date:</uicontrol> Date you plan on sending the document to your
+                    customer.</cmd></substep>
+               <substep><cmd><uicontrol>CREATE.</uicontrol></cmd></substep>
+            </substeps>
+        <result>Acme Eye creates the project and opens it for you. The name of your project appears
+            followed by the type of document you are creating and the document outline.</result>
+        </steps>
+    </taskbody>
+</task>
